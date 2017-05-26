@@ -81,5 +81,7 @@ control/Makefile
 drivers/Makefile
 include/Makefile
 tapback/Makefile
+mockatests/Makefile
+mockatests/lvm-util/Makefile
 ])
 AC_OUTPUT
